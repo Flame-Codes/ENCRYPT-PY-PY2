@@ -114,7 +114,7 @@ Here are some ideas to get you started:
  python PY-ENC.py
 ```
 
- ❤️ Thanks For Using My Tools 🖤
+ ❤️ Thanks For Using My Tools ❤️
 
 > DATABASE:
 
