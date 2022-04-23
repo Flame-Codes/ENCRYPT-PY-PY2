@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
  cd ENCRYPT-PY-PY2
 
- python 
+ python PY-ENC.py
 ```
 
  ❤️ Thanks For Using My Tools 🖤
