@@ -106,12 +106,11 @@ Here are some ideas to get you started:
 
  pip2 install bs4
  
-
  git clone https://github.com/Naim75o/ENCRYPT-PY-PY2
 
  cd ENCRYPT-PY-PY2
 
- python PY-ENC.py
+ python2 PY-ENC.py
 ```
 
  ❤️ Thanks For Using My Tools ❤️
